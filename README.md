@@ -1,2 +1,5 @@
 # Microsoft-Rewards-Simulator
-A joke Simulator i decided to make to learn a little bit of C#
+
+A joke simulator I made while learning C#.
+
+This is a fan-made joke project and has no affiliation with or connection to Microsoft.
